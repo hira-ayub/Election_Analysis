@@ -8,9 +8,11 @@ There were 369,711 votes were cast in 3 counties for 3 candidates. The largest c
 
 ![County_1](Resources/County_Results.png)   ![Candidate_1](Resources/Candidate_Results.png)
 
-![Election_1](Resources/Election_Result.png) ![Turn_1](Resources/Turn_Out.png) 
+![Election_1](Resources/Election_Result.png)
 
-                           ![Winner_1](Resources/Winner.png)
+![Turn_1](Resources/Turn_Out.png) 
+
+![Winner_1](Resources/Winner.png)
 
 
 ## Election-Audit Summary: 
